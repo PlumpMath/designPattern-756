@@ -1,7 +1,9 @@
 package singleton;
 /**
- * Singleton 클래스르르 이용하는 클래스
+ * Singleton 클래스를 이용하는 클래스
  * Singleton 클래스의 getInstance 메소드를 사용해서, Singleton의 인스턴스를 얻음.
+ * - 지정한 클래스의 인스턴스가 '절대로' 1개밖에 존재하지 않는 것을 보증하고 싶을때.. 사용
+ * - 인스턴스가 1개밖에 존재하지 않는 것을 프로그램 상에서 표현하고 싶을 때
  * @author bumziki@sk.com
  *
  */

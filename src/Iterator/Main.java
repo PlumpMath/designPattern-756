@@ -1,5 +1,9 @@
 package Iterator;
-
+/**
+ * Iterator 패턴이란, 무엇인가 많이 모여있는 것들을 순서대로 지정하면서 전체를 검색하는 처리를 실행하기 위한 것. 
+ * @author skplanet
+ *
+ */
 public class Main {
 	
 	public static void main(String[] args) {
